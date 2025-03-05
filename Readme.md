@@ -1,6 +1,6 @@
 # Professional Password Strength Analyzer
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/your-streamlit-username/your-repo-name)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://share.streamlit.io/your-streamlit-username/your-repo-name](https://password--strength.streamlit.app/))
 
 ## Overview
 
