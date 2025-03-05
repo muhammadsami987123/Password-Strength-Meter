@@ -1,7 +1,5 @@
 # Professional Password Strength Analyzer
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://share.streamlit.io/your-streamlit-username/your-repo-name](https://password--strength.streamlit.app/))
-
+###live Demo (https://password--strength.streamlit.app/)
 ## Overview
 
 This is a web application built with Streamlit that helps you analyze the strength of your passwords and generate strong, secure passwords. It provides real-time feedback on password strength and offers a password generator for creating robust passwords.
